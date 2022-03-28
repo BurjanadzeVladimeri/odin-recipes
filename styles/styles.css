@@ -1,0 +1,12 @@
+body {
+    width: 50%;
+    margin: auto;
+}
+
+.chef {
+    width: 100%;
+}
+
+.recipe-link {
+    padding: 8%;
+}
