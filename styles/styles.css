@@ -42,3 +42,8 @@ a {
     background-color: crimson;
     cursor: pointer;
 }
+
+li {
+    margin-bottom: 10px;
+    font-size: large;
+}
